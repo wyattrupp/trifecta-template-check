@@ -1,0 +1,7 @@
+# Changes to the files that steer the check and the session need this review.
+/CLAUDE.md @wyattrupp
+/.claude/ @wyattrupp
+/.github/ @wyattrupp
+/docs/conf.py @wyattrupp
+/Makefile @wyattrupp
+/requirements.lock @wyattrupp
